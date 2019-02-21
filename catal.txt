@@ -1,0 +1,21 @@
+1:Lenovo IdeaPad 100-14 (80MH0022UA):Ý๊๐เํ (1366x768) HD LED/ Intel Pentium N3540(2.16-2.66รร๖)/ RAM 4รม/ HDD 500รม/ Intel HD Graphics:7499
+2:Asus X540LJ (X540LJ-XX047D) ChocolateBlack:Ý๊๐เํ (1366x768) HD LED/ Intel Core i3-4005U(1.7รร๖)/ RAM 4รม/ HDD 2าม/ nVidia GeForce GT 920M, 2รม:12490
+3:Acer Aspire F5-571G-500P (NX.GA4EU.005):Ý๊๐เํ (1366x768) HD LED/ Intel Core i5-4210U(1.7-2.7รร๖)/ RAM 8รม/ HDD 1าม/ nVidia GeForce 940M, 2รม:14999
+4:Dell Inspiron 3543 (I35545DDL-45) Black:Ý๊๐เํ (1366x768) HD LED/ Intel Core i5-5200U(2.2รร๖)/ RAM 4รม/ HDD 500รม/ nVidia GeForce 820M, 2รม:12799
+5:Asus X540LA (X540LA-XX002D) ChocolateBlack:Ý๊๐เํ (1366x768) HD LED/ Intel Core i3-4005U(1.7รร๖)/ RAM 4รม/ HDD 500รม/ Intel HD Graphics 4400:9855
+6:Dell Inspiron 3542 (I35C45DIL-46) Black:Ý๊๐เํ (1366x768) HD WLED TrueLife/ Intel Celeron 2957U(1.4รร๖)/ RAM 4รม/ HDD 500รม/ Intel HD Graphics 4000:6899
+7:Acer Aspire E5-532G-C7ZB (NX.MZ1EU.003) Black-Iron:Ý๊๐เํ (1366x768) HD LED/ Intel Celeron N3150(1.6รร๖)/ RAM 4รม/ HDD 500รม/ nVidia GeForce 920M, 2รม:9899
+8:HP 250 G4 (P5T69EA):Ý๊๐เํ (1366x768) HD LED/ Intel Pentium N3700(1.6-2.4รร๖)/ RAM 4รม/ HDD 1าม/ Intel HD Graphics:8011
+9:Lenovo G70-80 (80FF00BKUA) Black:Ý๊๐เํ (1600x900) HD+ LED/ Intel Pentium 3825U(1.9รร๖)/ RAM 4รม/ HDD 1าม/ nVidia GeForce 920M, 2รม:9799
+10:Acer Aspire ES1-731-P0D3 (NX.MZSEU.010) Black:Ý๊๐เํ (1600x900) HD+ LED/ Intel Pentium N3700(1.6-2.4รร๖)/ RAM 4รม/ HDD 500รม/ Intel HD Graphics:8999
+11:Acer Extensa EX2519-P9VZ (NX.EFAEU.005) Black:Ý๊๐เํ (1366x768) HD LED/ Intel Pentium N3700(1.6-2.4รร๖)/ RAM 4รม/ HDD 500รม/ Intel HD Graphics:7599
+12:Dell XPS159550 (X55810NDW-46S):Ý๊๐เํ (1920x1080) Full HD/ Intel Core i5-6300HQ (2.3-3.2รร๖)/ RAM 8รม/ HDD 1าม + SSD 32รม/ nVidia GeForce GTX 960M, 2รม:46827
+13:HP 255 G4 (T6P79ES):Ý๊๐เํ (1366x768) HD LED/ AMD Quad-Core A6-6310 (1.8-2.4รร๖)/ RAM 8รม/ HDD 1าม/ AMD Radeon R4:9240
+14:HP ProBook 450 (P4P32EA):Ý๊๐เํ (1366x768) HD/ Intel Core i7-6500U(2.5-3.1รร๖)/ RAM 8รม/ HDD 1าม/ AMD Radeon R7 M340, 2รม:20841
+15:Apple MacBook ProRetina13" (MF840UA/A):Ý๊๐เํ IPS (2560x1600) Retina LED/ Intel Core i5(2.7รร๖)/ RAM 8รม/ SSD 256รม/ Intel Iris Graphics 6100:45999
+16:Acer Aspire E5-521-67SC (NX.MLFEU.020) Black:Ý๊๐เํ (1366x768) HD LED/ AMD Quad-Core A6-6310(1.8-2.4รร๖)/ RAM 4รม/ HDD 1าม/ AMD Radeon R4:9799
+17:Lenovo Z50-75 (80EC00EJUA) Black:Ý๊๐เํ (1920x1080) Full HD LED/ AMD Quad-Core A10-7300(1.9-3.2รร๖)/ RAM 4รม/ HDD 1าม/ AMD Radeon R5 M255, 2รม:15125
+18:Apple MacBook Air13" (Z0RJ001W8):Ý๊๐เํ (1440x900) HD LED/ Intel Core i7(2.2รร๖)/ RAM 8รม/ SSD 256รม/ Intel HD Graphics 6000:49399
+19:HP Notebook 15-ac162ur (V2J38EA):Ý๊๐เํ (1366x768) HD LED/ Intel Pentium N3700(1.6-2.4รร๖)/ RAM 4รม/ HDD 1Tม/ AMD Radeon R5 M330, 1รม:8299
+20:Lenovo Z51-70 (80K6012PUA) Black:Ý๊๐เํ (1920x1080) Full HD LED/ Intel Core i3-5005U(2.0รร๖)/ RAM 4รม/ HDD 1าม/ AMD Radeon R7 M360, 2รม:15599
+: Lenovo Extented pack: (1366x726) HD/ Intel Core i3(1.7รร๖)/ RAM 8รแ/ HDD 500รแ/ Intel Graphics:6234
